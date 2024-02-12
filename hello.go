@@ -10,5 +10,6 @@ func main() {
 	}
 
 	fmt.Println("sudah di edit")
+	fmt.Println("sudah di edit dari github")
 
 }
