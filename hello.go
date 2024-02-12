@@ -9,6 +9,6 @@ func main() {
 		res += i;
 	}
 
-	fmt.Println("sudah di edit")
+	fmt.Println("sudah di edit dari local")
 
 }
